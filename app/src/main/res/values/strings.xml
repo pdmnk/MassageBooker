@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MassageBooker</string>
+    <string name="email_address">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+</resources>
